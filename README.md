@@ -19,7 +19,7 @@ Installation of libraries (using root user):
 Cloning the repository and compiling (use any user with the sudo group):
 
     cd
-    git clone https://github.com/KissNetwork/Kiss.git
+    git clone https://github.com/Supranadro/kiss
     cd Kiss
     ./autogen.sh
     ./configure
@@ -47,7 +47,7 @@ All binaries for different operating systems, you can download in the releases r
 
 
 
-P2P port: 2003, RPC port: 2003
+P2P port: 1191, RPC port: 1192
 -
 Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
